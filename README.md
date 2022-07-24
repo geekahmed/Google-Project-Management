@@ -22,7 +22,7 @@ https://www.coursera.org/professional-certificates/google-project-management
 - [Project Initiation: Starting a Successful Project](https://coursera.org/share/efd100ca3716821ec35021961aa9caeb)
 - [Project Planning: Putting It All Together](https://coursera.org/share/4635d0660b151b94603520289ae1ecac)
 - [Project Execution: Running the Project](https://coursera.org/share/1163b2a1ab3b10e62c31c368604ef5c0)
-- [Agile Project Management](#)
+- [Agile Project Management](https://coursera.org/share/6e7a7f7348ba691c93c0c4a27aa49b08)
 - [Capstone: Applying Project Management in the Real World](#)
 ## Specialization Certificate
 **You can find the capstone project here**
