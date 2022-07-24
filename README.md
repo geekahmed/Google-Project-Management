@@ -17,5 +17,12 @@
 
 ## Specialization Link
 https://www.coursera.org/professional-certificates/google-project-management
+## Specialization's Courses Certificate
+- [Foundations of Project Management](https://coursera.org/share/c5381b351c9858cd589b6bb48ce154d9)
+- [Project Initiation: Starting a Successful Project](https://coursera.org/share/efd100ca3716821ec35021961aa9caeb)
+- [Project Planning: Putting It All Together](https://coursera.org/share/4635d0660b151b94603520289ae1ecac)
+- [Project Execution: Running the Project](https://coursera.org/share/1163b2a1ab3b10e62c31c368604ef5c0)
+- [Agile Project Management](#)
+- [Capstone: Applying Project Management in the Real World](#)
 ## Specialization Certificate
-"In progress"
+**You can find the capstone project here**
